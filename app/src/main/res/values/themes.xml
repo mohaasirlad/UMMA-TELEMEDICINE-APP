@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UMMATELEMEDICINEAPP" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary_brand</item>
+        <item name="colorPrimaryVariant">@color/primary_dark_brand</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/primary_brand</item>
+        <item name="colorSecondary">@color/primary_brand</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/primary_dark_brand</item>
+    </style>
+
+    <style name="Theme.UMMATELEMEDICINEAPP" parent="Base.Theme.UMMATELEMEDICINEAPP" />
+
+    <style name="ShapeAppearance.Material3.Corner.Full" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="ShapeAppearance.Material3.Corner.Medium" parent="">
+        <item name="cornerSize">12dp</item>
+    </style>
+
+    <style name="CircleImage" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

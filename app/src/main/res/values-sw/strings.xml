@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">UMMA TELEMEDICINE APP</string>
+    <string name="skip">Ruka</string>
+    <string name="next">Inayofuata</string>
+    <string name="get_started">Anza Sasa</string>
+
+    <string name="onboarding_title_1">Weka miadi papo hapo</string>
+    <string name="onboarding_desc_1">Ruka foleni na uweke miadi ya daktari wako kwa kugusa mara chache tu.</string>
+
+    <string name="onboarding_title_2">Fuatilia foleni kwa wakati halisi</string>
+    <string name="onboarding_desc_2">Pata habari kuhusu nafasi yako kwenye foleni na ufike kliniki kwa wakati.</string>
+
+    <string name="onboarding_title_3">Wasiliana na madaktari kwa mbali</string>
+    <string name="onboarding_desc_3">Ushauri wa video wa hali ya juu kutoka kwa faraja ya nyumba yako.</string>
+
+    <string name="welcome_user">%1$s 👋</string>
+    <string name="welcome_doctor">Dkt. %1$s</string>
+
+    <!-- Home Screen -->
+    <string name="greet_morning">Habari za asubuhi,</string>
+    <string name="greet_afternoon">Habari za mchana,</string>
+    <string name="greet_evening">Habari za jioni,</string>
+    <string name="upcoming_appointment">Miadi Inayokuja</string>
+    <string name="quick_actions">Hatua za Haraka</string>
+    <string name="recommended_doctors">Madaktari Waliopendekezwa</string>
+    <string name="search_hint_home">Tafuta Madaktari, Kliniki...</string>
+
+    <!-- Quick Actions -->
+    <string name="action_book">Weka Miadi</string>
+    <string name="action_emergency">SOS ya Dharura</string>
+    <string name="action_queue">Angalia Foleni</string>
+    <string name="action_locator">Locator ya Kliniki</string>
+    <string name="action_telehealth">Afya ya Mtandao</string>
+    <string name="action_symptom">Kikagua Dalili</string>
+
+    <!-- Queue Screen -->
+    <string name="title_queue">Hali ya Foleni ya Moja kwa Moja</string>
+    <string name="queue_subtitle">Fuatilia nafasi yako kwa wakati halisi</string>
+    <string name="label_current_position">NAFASI YA SASA</string>
+    <string name="queue_wait_time">Muda unaokadiriwa: %1$s</string>
+    <string name="queue_you_are_next">Wewe ni unaofuata!</string>
+    <string name="queue_wait_mins">dakika %1$d</string>
+    <string name="queue_patients_ahead_singular">Mgonjwa 1 yuko mbele yako</string>
+    <string name="queue_patients_ahead_plural">Wagonjwa %1$d wako mbele yako</string>
+    <string name="symptom_priority_urgent">HARAKA / KIPAUMBELE CHA JUU</string>
+    <string name="symptom_priority_moderate">KIPAUMBELE CHA KATI</string>
+    <string name="symptom_priority_routine">KAWAIDA</string>
+    <string name="symptom_priority_general">ULIZO WA KAWAIDA</string>
+
+    <string name="symptom_assess_cardio">Dalili zako zinaonyesha uwezekano wa tatizo la moyo. Maumivu ya kifua na upungufu wa pumzi yanahitaji uangalizi wa haraka.</string>
+    <string name="symptom_recom_cardio">Tunapendekeza kushauriana mara moja na Daktari wa Moyo. Ikiwa dalili zitazidi kuwa mbaya, tafadhali nenda hospitali ya dharura iliyo karibu.</string>
+
+    <string name="symptom_assess_neuro">Maumivu ya kichwa yanayojirudia, kizunguzungu, au kufa ganzi yanaweza kuhusishwa na hali ya mfumo wa neva au migraines kali.</string>
+    <string name="symptom_recom_neuro">Wasiliana na Daktari wa Mishipa ya Fahamu ili kutathmini dalili hizi na kuondoa matatizo ya kimsingi ya neva.</string>
+
+    <string name="symptom_assess_dental">Kulingana na maelezo yako, suala linaonekana kuhusiana na afya ya kinywa au meno.</string>
+    <string name="symptom_recom_dental">Daktari wa meno anapaswa kuchunguza meno na fizi zako ili kuzuia maambukizi zaidi au kuoza.</string>
+
+    <string name="symptom_assess_gastro">Maumivu ya tumbo au matatizo ya usagaji chakula yanaweza kuashiria gastritis, mzio wa chakula, au maambukizi ya virusi.</string>
+    <string name="symptom_recom_gastro">Wasiliana na Daktari wetu Mkuu kwa uchunguzi. Kunywa maji mengi na epuka vyakula vizito kwa sasa.</string>
+
+    <string name="symptom_assess_viral">Dalili zinaonyesha maambukizi ya kawaida ya virusi, mafua, au uchovu wa jumla.</string>
+    <string name="symptom_recom_viral">Tembelea Daktari Mkuu kwa matibabu ya msingi. Kupumzika na kunywa maji mengi kunapendekezwa sana.</string>
+
+    <string name="symptom_assess_skin">Muwasho wa ngozi unaweza kusababishwa na mzio, maambukizi, au hali ya ngozi.</string>
+    <string name="symptom_recom_skin">Daktari wetu Mkuu anaweza kutoa tathmini ya awali na kukuelekeza kwa Daktari wa Ngozi ikihitajika.</string>
+
+    <string name="symptom_assess_ortho">Maumivu ya misuli na mifupa yanaweza kutokana na mkazo, jeraha, au hali ya kuvimba.</string>
+    <string name="symptom_recom_ortho">Anza na Daktari Mkuu. Wanaweza kupendekeza tiba ya mwili au mtaalamu wa mifupa.</string>
+
+    <string name="symptom_assess_gen">Dalili zilizotolewa ni pana sana. Inaweza kuwa ugonjwa mdogo au hatua za mwanzo za hali ya kawaida.</string>
+    <string name="symptom_recom_gen">Tunapendekeza kuweka miadi na daktari wetu mkuu kwa uchunguzi wa kina wa afya.</string>
+    <string name="searching">Inatafuta...</string>
+    <string name="no_doctor_available">Hakuna Daktari anayepatikana</string>
+    <string name="general_physician">Daktari Mkuu</string>
+    <string name="emergency_dialog_title">Msaada wa Matibabu ya Dharura</string>
+    <string name="emergency_dialog_message">Je, unahitaji msaada wa haraka wa matibabu?\n\nTafadhali piga 1199 mara moja.\nIkiwa haipatikani, piga 112.</string>
+    <string name="emergency_call_1199">Piga 1199</string>
+    <string name="emergency_call_112">Piga 112</string>
+    <string name="cancel">Ghairi</string>
+    <string name="booking_success_message">Miadi yako imewekwa kwa mafanikio.</string>
+</resources>

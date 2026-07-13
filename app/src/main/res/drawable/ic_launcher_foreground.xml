@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simplified "U" shape representing Ummah -->
+    <path
+        android:fillColor="@color/primary_brand"
+        android:pathData="M30,30 L30,65 C30,78 40,88 54,88 C68,88 78,78 78,65 L78,30 L65,30 L65,65 C65,71 61,75 54,75 C47,75 43,71 43,65 L43,30 Z" />
+    <!-- Small accent dot/cross representing medical aspect -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,45 L58,45 M54,41 L54,49"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+</vector>

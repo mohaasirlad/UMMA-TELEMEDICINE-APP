@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">تطبيق أمة للطب عن بعد</string>
+    <string name="skip">تخطى</string>
+    <string name="next">التالي</string>
+    <string name="get_started">ابدأ الآن</string>
+
+    <string name="onboarding_title_1">احجز المواعيد على الفور</string>
+    <string name="onboarding_desc_1">تخطى قائمة الانتظار واحجز موعد طبيبك ببضع نقرات فقط.</string>
+
+    <string name="onboarding_title_2">تتبع قائمة الانتظار في الوقت الحقيقي</string>
+    <string name="onboarding_desc_2">ابق على اطلاع بموقعك في قائمة الانتظار وتصل إلى العيادة في الوقت المناسب.</string>
+
+    <string name="onboarding_title_3">استشر الأطباء عن بعد</string>
+    <string name="onboarding_desc_3">استشارات فيديو عالية الجودة من راحة منزلك.</string>
+
+    <string name="welcome_user">%1$s 👋</string>
+    <string name="welcome_doctor">د. %1$s</string>
+
+    <!-- Home Screen -->
+    <string name="greet_morning">صباح الخير،</string>
+    <string name="greet_afternoon">طاب مساؤك،</string>
+    <string name="greet_evening">مساء الخير،</string>
+    <string name="upcoming_appointment">الموعد القادم</string>
+    <string name="quick_actions">إجراءات سريعة</string>
+    <string name="recommended_doctors">الأطباء الموصى بهم</string>
+    <string name="search_hint_home">البحث عن أطباء، عيادات...</string>
+
+    <!-- Quick Actions -->
+    <string name="action_book">حجز موعد</string>
+    <string name="action_emergency">طوارئ SOS</string>
+    <string name="action_queue">عرض قائمة الانتظار</string>
+    <string name="action_locator">موقع العيادة</string>
+    <string name="action_telehealth">الرعاية الصحية عن بعد</string>
+    <string name="action_symptom">فحص الأعراض</string>
+
+    <!-- Queue Screen -->
+    <string name="title_queue">حالة قائمة الانتظار المباشرة</string>
+    <string name="queue_subtitle">تتبع موقعك في الوقت الحقيقي</string>
+    <string name="label_current_position">الموقع الحالي</string>
+    <string name="queue_wait_time">الوقت المقدر: %1$s</string>
+    <string name="queue_you_are_next">أنت التالي!</string>
+    <string name="queue_wait_mins">%1$d دقيقة</string>
+    <string name="queue_patients_ahead_singular">مريض واحد أمامك</string>
+    <string name="queue_patients_ahead_plural">%1$d مرضى أمامك</string>
+    <string name="symptom_priority_urgent">عاجل / أولوية عالية</string>
+    <string name="symptom_priority_moderate">أولوية متوسطة</string>
+    <string name="symptom_priority_routine">روتيني</string>
+    <string name="symptom_priority_general">استفسار عام</string>
+
+    <string name="symptom_assess_cardio">تشير أعراضك إلى وجود مشكلة محتملة في القلب والأوعية الدموية. تتطلب آلام الصدر وضيق التنفس عناية فورية.</string>
+    <string name="symptom_recom_cardio">نوصي باستشارة فورية مع طبيب قلب. إذا ساءت الأعراض، يرجى التوجه إلى أقرب غرفة طوارئ.</string>
+
+    <string name="symptom_assess_neuro">يمكن أن يكون الصداع المتكرر أو الدوخة أو التنميل مرتبطًا بحالات عصبية أو صداع نصفي شديد.</string>
+    <string name="symptom_recom_neuro">استشر طبيب أعصاب لتقييم هذه الأعراض واستبعاد الاضطرابات العصبية الكامنة.</string>
+
+    <string name="symptom_assess_dental">بناءً على وصفك، تبدو المشكلة متعلقة بصحة الأسنان أو نظافة الفم.</string>
+    <string name="symptom_recom_dental">يجب أن يفحص طبيب الأسنان أسنانك ولثتك لمنع المزيد من العدوى أو التسوس.</string>
+
+    <string name="symptom_assess_gastro">يمكن أن يشير ألم البطن أو الاضطرابات الهضمية إلى التهاب المعدة أو حساسية الطعام أو عدوى فيروسية.</string>
+    <string name="symptom_recom_gastro">استشر طبيبنا العام لإجراء فحص. حافظ على رطوبة جسمك وتجنب الوجبات الثقيلة في الوقت الحالي.</string>
+
+    <string name="symptom_assess_viral">تشير الأعراض إلى وجود عدوى فيروسية شائعة أو أنفلونزا أو تعب عام.</string>
+    <string name="symptom_recom_viral">قم بزيارة طبيب عام للعلاج الأساسي. يوصى بشدة بالراحة وتناول السوائل.</string>
+
+    <string name="symptom_assess_skin">يمكن أن يكون تهيج الجلد ناتجًا عن الحساسية أو العدوى أو الحالات الجلدية.</string>
+    <string name="symptom_recom_skin">يمكن لطبيبنا العام تقديم تقييم أولي وإحالتك إلى طبيب أمراض جلدية إذا لزم الأمر.</string>
+
+    <string name="symptom_assess_ortho">قد يكون الألم العضلي الهيكلي ناتجًا عن إجهاد أو إصابة أو حالات التهابية.</string>
+    <string name="symptom_recom_ortho">ابدأ بطبيب عام. قد يوصون بالعلاج الطبيعي أو أخصائي جراحة العظام.</string>
+
+    <string name="symptom_assess_gen">الأعراض المقدمة واسعة النطاق. قد يكون مرضًا بسيطًا أو مرحلة مبكرة من حالة شائعة.</string>
+    <string name="symptom_recom_gen">نقترح حجز موعد مع طبيبنا العام لإجراء فحص صحي شامل.</string>
+    <string name="searching">جاري البحث...</string>
+    <string name="no_doctor_available">لا يوجد طبيب متاح</string>
+    <string name="general_physician">طبيب عام</string>
+    <string name="emergency_dialog_title">مساعدة طبية طارئة</string>
+    <string name="emergency_dialog_message">هل تحتاج إلى مساعدة طبية عاجلة؟\n\nيرجى الاتصال بالرقم 1199 فوراً.\nإذا لم يكن متاحاً، اتصل بالرقم 112.</string>
+    <string name="emergency_call_1199">اتصل بـ 1199</string>
+    <string name="emergency_call_112">اتصل بـ 112</string>
+    <string name="cancel">إلغاء</string>
+    <string name="booking_success_message">تم حجز موعدك بنجاح.</string>
+</resources>

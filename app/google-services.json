@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848771252854",
+    "firebase_url": "https://umma-telemedicine-52d04-default-rtdb.firebaseio.com",
+    "project_id": "umma-telemedicine-52d04",
+    "storage_bucket": "umma-telemedicine-52d04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848771252854:android:2c232d9bc98a5bbccb1557",
+        "android_client_info": {
+          "package_name": "com.example.ummatelemedicineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848771252854-29qihpof758l0khcvkjv5nukd0vek4oq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ummatelemedicineapp",
+            "certificate_hash": "0099e250bb67055f9a8110c48bd1b7e93a802307"
+          }
+        },
+        {
+          "client_id": "848771252854-fdlc3srrlt21l5p7j6ghf7sk8msb5udi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP5h8ReNK98V6j35JpY6XS-0SIMfhZJ0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848771252854-fdlc3srrlt21l5p7j6ghf7sk8msb5udi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

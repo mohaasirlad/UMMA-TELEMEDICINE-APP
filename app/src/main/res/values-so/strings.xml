@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">UMMA TELEMEDICINE APP</string>
+    <string name="skip">Dhaaf</string>
+    <string name="next">Xiga</string>
+    <string name="get_started">Bilow Sida Hadda</string>
+
+    <string name="onboarding_title_1">Ballan qabso isla markiiba</string>
+    <string name="onboarding_desc_1">Iska dhaaf safka oo ballan ka qabso dhakhtarkaaga dhowr taabasho oo keliya.</string>
+
+    <string name="onboarding_title_2">La soco safka waqtiga dhabta ah</string>
+    <string name="onboarding_desc_2">La soco booskaaga safka oo gaadh rugta caafimaadka wakhtiga saxda ah.</string>
+
+    <string name="onboarding_title_3">La tasho dhakhaatiirta meel fog</string>
+    <string name="onboarding_desc_3">Wada tashiyo muuqaal ah oo tayo sare leh oo ka imanaya raaxada gurigaaga.</string>
+
+    <string name="welcome_user">%1$s 👋</string>
+    <string name="welcome_doctor">Dr. %1$s</string>
+
+    <!-- Home Screen -->
+    <string name="greet_morning">Subax wanaagsan,</string>
+    <string name="greet_afternoon">Galab wanaagsan,</string>
+    <string name="greet_evening">Habeen wanaagsan,</string>
+    <string name="upcoming_appointment">Ballanta Soo Socota</string>
+    <string name="quick_actions">Tallaabooyinka Degdega ah</string>
+    <string name="recommended_doctors">Dhakhaatiirta lagula taliyay</string>
+    <string name="search_hint_home">Raadi Dhakhaatiir, Rugaha Caafimaadka...</string>
+
+    <!-- Quick Actions -->
+    <string name="action_book">Ballan Qabso</string>
+    <string name="action_emergency">SOS Degdeg ah</string>
+    <string name="action_queue">Eeg Safka</string>
+    <string name="action_locator">Goobta Rugta Caafimaadka</string>
+    <string name="action_telehealth">Adeegga Fog</string>
+    <string name="action_symptom">Hubiyaha Calaamadaha</string>
+
+    <!-- Queue Screen -->
+    <string name="title_queue">Heerka Safka Tooska ah</string>
+    <string name="queue_subtitle">La soco booskaaga waqtiga dhabta ah</string>
+    <string name="label_current_position">BOOSKA HADDA</string>
+    <string name="queue_wait_time">Waqtiga qiyaasta: %1$s</string>
+    <string name="queue_you_are_next">Adiga ayaa xiga!</string>
+    <string name="queue_wait_mins">%1$d daqiiqo</string>
+    <string name="queue_patients_ahead_singular">1 bukaan ayaa kaa horeeya</string>
+    <string name="queue_patients_ahead_plural">%1$d bukaan ayaa kaa horeeya</string>
+    <string name="symptom_priority_urgent">DEGDEG / AHMIYAD SARE</string>
+    <string name="symptom_priority_moderate">AHMIYAD DHEX-DHEXAAD AH</string>
+    <string name="symptom_priority_routine">ROUTINE</string>
+    <string name="symptom_priority_general">SU\'AAL GUUD</string>
+
+    <string name="symptom_assess_cardio">Calaamadahaagu waxay muujinayaan suurtogalnimada arrin wadnaha ah. Xanuunka feeraha iyo neef-mareenka waxay u baahan yihiin fiiro gaar ah.</string>
+    <string name="symptom_recom_cardio">Waxaan kugula talineynaa inaad isla markaaba la tashato dhakhtarka wadnaha. Haddii calaamaduhu ka sii daraan, fadlan booqo qolka xaaladaha degdegga ah ee kuugu dhow.</string>
+
+    <string name="symptom_assess_neuro">Madax-xanuun soo noqnoqda, wareer, ama kabuubyo waxay ku xirnaan karaan xaaladaha dareemayaasha ama xanuunka dhanjafku.</string>
+    <string name="symptom_recom_neuro">La tasho dhakhtarka neerfaha si aad u qiimeyso calaamadahan oo aad meesha uga saarto xanuunada neerfaha.</string>
+
+    <string name="symptom_assess_dental">Iyadoo lagu salaynayo sharraxaaddaada, arrintu waxay u muuqataa inay la xiriirto caafimaadka ilkaha ama nadaafadda afka.</string>
+    <string name="symptom_recom_dental">Dhakhtarka ilkuhu waa inuu baaro ilkahaaga iyo ciridkaaga si looga hortago caabuq kale ama qudhun.</string>
+
+    <string name="symptom_assess_gastro">Xanuunka caloosha ama dhibaatooyinka dheefshiidka waxay muujin karaan gaasari, dareenka cuntada, ama caabuq fayras ah.</string>
+    <string name="symptom_recom_gastro">La tasho dhakhtarkayaga guud si laguu baaro. Cab biyo badan oo iska ilaali cuntooyinka culus hadda.</string>
+
+    <string name="symptom_assess_viral">Calaamaduhu waxay muujinayaan caabuq fayras ah oo caadi ah, hargab, ama daal guud.</string>
+    <string name="symptom_recom_viral">Booqo dhakhtar guud si aad u hesho daaweyn aasaasi ah. Nasashada iyo cabista dareeraha ayaa aad loogu talinayaa.</string>
+
+    <string name="symptom_assess_skin">Cuncunka maqaarka waxaa sababi kara xasaasiyad, caabuq, ama xaaladaha maqaarka.</string>
+    <string name="symptom_recom_skin">Dhakhtarkayaga guud ayaa bixin kara qiimeyn bilow ah oo kuugu gudbin kara dhakhtarka maqaarka haddii loo baahdo.</string>
+
+    <string name="symptom_assess_ortho">Xanuunka murqaha iyo lafaha waxaa laga yaabaa inay sabab u tahay cadaadis, dhaawac, ama barar.</string>
+    <string name="symptom_recom_ortho">Ka bilow dhakhtar guud. Waxay kugula talin karaan jimicsi ama takhasusle lafaha ah.</string>
+
+    <string name="symptom_assess_gen">Calaamadaha la bixiyay waa kuwo ballaaran. Waxay noqon kartaa xanuun yar ama marxaladda hore ee xaalad caadi ah.</string>
+    <string name="symptom_recom_gen">Waxaan kuu soo jeedinaynaa inaad ballan ka qabsato dhakhtarkayaga guud si laguu baaro caafimaadkaaga guud.</string>
+    <string name="searching">Baadhaya...</string>
+    <string name="no_doctor_available">Dhakhtar lama heli karo</string>
+    <string name="general_physician">Dhakhtarka Guud</string>
+    <string name="emergency_dialog_title">Gargaarka Caafimaadka Degdegga ah</string>
+    <string name="emergency_dialog_message">Ma u baahan tahay gargaar caafimaad oo degdeg ah?\n\nFadlan wac 1199 isla markaaba.\nHaddii la waayo, wac 112.</string>
+    <string name="emergency_call_1199">Wac 1199</string>
+    <string name="emergency_call_112">Wac 112</string>
+    <string name="cancel">Jooji</string>
+    <string name="booking_success_message">Ballantaada si guul leh ayaa loo ballansaday.</string>
+</resources>

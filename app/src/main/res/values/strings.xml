@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">UMMA TELEMEDICINE APP</string>
+    <string name="onboarding_image">Onboarding Image</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+
+    <string name="onboarding_title_1">Book appointments instantly</string>
+    <string name="onboarding_desc_1">Skip the queue and book your doctor\'s appointment with just a few taps.</string>
+
+    <string name="onboarding_title_2">Track queue in real time</string>
+    <string name="onboarding_desc_2">Stay updated on your position in the queue and reach the clinic just in time.</string>
+
+    <string name="onboarding_title_3">Consult doctors remotely</string>
+    <string name="onboarding_desc_3">High-quality video consultations from the comfort of your home.</string>
+    <string name="welcome_user">%1$s 👋</string>
+    <string name="welcome_doctor">Dr. %1$s</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!-- Home Screen -->
+    <string name="greet_morning">Good Morning,</string>
+    <string name="greet_afternoon">Good Afternoon,</string>
+    <string name="greet_evening">Good Evening,</string>
+    <string name="upcoming_appointment">Upcoming Appointment</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="recommended_doctors">Recommended Doctors</string>
+    <string name="search_hint_home">Search Doctors, Clinics...</string>
+
+    <!-- Quick Actions -->
+    <string name="action_book">Book Appointment</string>
+    <string name="action_emergency">Emergency SOS</string>
+    <string name="action_queue">View Queue</string>
+    <string name="action_locator">Clinic Locator</string>
+    <string name="action_telehealth">Telehealth</string>
+    <string name="action_symptom">Symptom Checker</string>
+
+    <!-- Health Tips -->
+    <string name="daily_health_tip">Daily Health Tip</string>
+    <string name="health_tip_desc">Drink enough water today. Staying hydrated improves energy levels and brain function.</string>
+
+    <!-- Messages -->
+    <string name="title_messages">Messages</string>
+    <string name="search_hint_messages">Search conversations...</string>
+    <string name="empty_messages">No messages yet</string>
+    <string name="empty_messages_desc">Your consultations will appear here.</string>
+
+    <!-- Payments & Booking -->
+    <string name="error_invalid_phone">Please enter a valid phone number</string>
+    <string name="msg_mpesa_sent">M-Pesa STK Push sent to %1$s</string>
+    <string name="msg_processing_card">Processing card payment...</string>
+    <string name="payment_clinic">Pay at Clinic</string>
+    <string name="payment_mpesa_status">Paid via M-Pesa</string>
+    <string name="payment_card_status">Paid via Card</string>
+    <!-- Doctor Dashboard -->
+    <string name="title_doctor_dashboard">Doctor Dashboard</string>
+    <string name="stat_today">Today</string>
+    <string name="stat_appointments">Appointments</string>
+    <string name="stat_pending">Pending</string>
+    <string name="stat_to_review">To Review</string>
+    <string name="recent_alerts">Recent Alerts</string>
+    <string name="upcoming_consultations">Upcoming Consultations</string>
+    <string name="title_management">Management</string>
+    <string name="action_manage_schedule">Manage Schedule</string>
+    <string name="action_patient_records">Patient Records</string>
+    <string name="action_earnings_reports">Earnings &amp; Reports</string>
+    <string name="no_notifications">No new notifications</string>
+    <string name="search_patient_hint">Search patient name...</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="monthly_analytics">Monthly Analytics</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="earnings_graph_placeholder">[Earnings Graph Placeholder]</string>
+    <string name="consultation_type_label">Consultation: %1$s</string>
+    <string name="pending_requests_alert">%1$d New appointment requests pending your approval.</string>
+    <string name="no_pending_requests">No pending appointment requests.</string>
+    <string name="next_patient_status_label">Next Patient: %1$s at %2$s</string>
+    <string name="no_more_patients">No more patients today</string>
+    <string name="current_shift_label">Current Shift: %1$s</string>
+    <string name="no_new_notifications">No new notifications.</string>
+    <string name="no_active_appointment">No Active Appointment</string>
+
+
+    <!-- Doctor Messages -->
+    <string name="title_patient_messages">Patient Messages</string>
+    <string name="search_hint_patients">Search patients...</string>
+
+    <!-- Doctor Schedule -->
+    <string name="title_my_schedule">My Schedule</string>
+
+    <!-- Doctor Profile -->
+    <string name="doctor_name_placeholder">Dr. Sarah Wilson</string>
+    <string name="doctor_specialty_placeholder">Cardiologist | MD</string>
+    <string name="action_edit_profile">Edit Profile</string>
+    <string name="settings_availability">Availability Settings</string>
+    <string name="settings_fees">Consultation Fees</string>
+    <string name="action_logout">Logout</string>
+
+    <!-- Appointments -->
+    <string name="title_my_appointments">My Appointments</string>
+    <string name="tab_upcoming">Upcoming</string>
+    <string name="tab_past">Past</string>
+    <string name="transaction_consultation_label">Consultation: %1$s</string>
+    <string name="system_bonus">System Bonus</string>
+    <string name="currency_symbol_usd">$</string>
+    <string name="currency_format_usd">$%.2f</string>
+    <string name="message_prefix_you">You: %1$s</string>
+
+    <!-- Queue Screen -->
+    <string name="title_queue">Live Queue Status</string>
+    <string name="queue_subtitle">Track your position in real-time</string>
+    <string name="label_current_position">CURRENT POSITION</string>
+    <string name="format_queue_number">%02d</string>
+    <string name="queue_wait_time">Estimated wait: %1$s</string>
+    <string name="queue_you_are_next">You are next!</string>
+    <string name="queue_wait_mins">%1$d mins</string>
+    <string name="queue_patients_ahead_singular">1 patient ahead of you</string>
+    <string name="queue_patients_ahead_plural">%1$d patients ahead of you</string>
+    <string name="queue_no_appointment">No active appointment today</string>
+    <string name="queue_book_now">Please book an appointment</string>
+    <string name="queue_status_attending">You are currently being seen</string>
+    <string name="queue_in_consultation">In Consultation</string>
+    <string name="queue_empty">No patients in queue</string>
+    <string name="queue_clinic_clear">Clinic is currently clear</string>
+
+    <string name="symptom_priority_urgent">URGENT / HIGH PRIORITY</string>
+    <string name="symptom_priority_moderate">MODERATE PRIORITY</string>
+    <string name="symptom_priority_routine">ROUTINE</string>
+    <string name="symptom_priority_general">GENERAL INQUIRY</string>
+
+    <string name="symptom_assess_cardio">Your symptoms suggest a possible cardiovascular issue. Chest pain and shortness of breath require immediate attention.</string>
+    <string name="symptom_recom_cardio">We recommend an immediate consultation with a Cardiologist. If symptoms worsen, please visit the nearest ER.</string>
+
+    <string name="symptom_assess_neuro">Recurrent headaches, dizziness, or numbness can be linked to neurological conditions or severe migraines.</string>
+    <string name="symptom_recom_neuro">Consult a Neurologist to evaluate these symptoms and rule out underlying neurological disorders.</string>
+
+    <string name="symptom_assess_dental">Based on your description, the issue appears related to dental health or oral hygiene.</string>
+    <string name="symptom_recom_dental">A Dentist should examine your teeth and gums to prevent further infection or decay.</string>
+
+    <string name="symptom_assess_gastro">Abdominal pain or gastrointestinal distress could indicate gastritis, food sensitivity, or a viral infection.</string>
+    <string name="symptom_recom_gastro">Consult our General Physician for a checkup. Stay hydrated and avoid heavy meals for now.</string>
+
+    <string name="symptom_assess_viral">Symptoms indicate a common viral infection, flu, or general fatigue.</string>
+    <string name="symptom_recom_viral">Visit a General Physician for basic treatment. Rest and fluid intake are highly recommended.</string>
+
+    <string name="symptom_assess_skin">Skin irritations can be caused by allergies, infections, or dermatological conditions.</string>
+    <string name="symptom_recom_skin">Our General Physician can provide an initial assessment and refer you to a Dermatologist if needed.</string>
+
+    <string name="symptom_assess_ortho">Musculoskeletal pain might be due to strain, injury, or inflammatory conditions.</string>
+    <string name="symptom_recom_ortho">Start with a General Physician. They may recommend physiotherapy or an Orthopedic specialist.</string>
+
+    <string name="symptom_assess_gen">The symptoms provided are broad. It could be a minor ailment or early stage of a common condition.</string>
+    <string name="symptom_recom_gen">We suggest booking an appointment with our GP for a comprehensive health check.</string>
+    <string name="searching">Searching...</string>
+    <string name="no_doctor_available">No Doctor Available</string>
+    <string name="general_physician">General Physician</string>
+    <string name="emergency_dialog_title">Emergency Medical Help</string>
+    <string name="emergency_dialog_message">Need urgent medical help?\n\nPlease call 1199 immediately.\nIf unavailable, call 112.</string>
+    <string name="emergency_call_1199">Call 1199</string>
+    <string name="emergency_call_112">Call 112</string>
+    <string name="cancel">Cancel</string>
+    <string name="date_time_format">%1$s, %2$s</string>
+    <string name="booking_success_message">Your appointment has been successfully booked.</string>
+</resources>

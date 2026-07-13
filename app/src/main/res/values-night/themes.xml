@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Force light theme colors even in night mode to remove dark backgrounds as requested -->
+    <style name="Base.Theme.UMMATELEMEDICINEAPP" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_brand</item>
+        <item name="colorPrimaryVariant">@color/primary_dark_brand</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/primary_brand</item>
+        <item name="colorSecondary">@color/primary_brand</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/primary_dark_brand</item>
+    </style>
+</resources>
